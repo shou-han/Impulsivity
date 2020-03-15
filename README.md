@@ -1,2 +1,2 @@
-# DylexiaDDM
-Drift Diffusion Model for Dyslexia
+# Impulsivity
+Drift Diffusion Model for Impulsivity
